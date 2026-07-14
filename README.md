@@ -1,5 +1,5 @@
 <h1 align="center">This Is Md. Ismaeil Hossain</h1>
-<h3 align="center">Web Designer & WordPress Developer focused on fast, responsive web experiences.</h3>
+<h3 align="center">As a Web Designer & WordPress Developer, I deliver fast, responsive, and professionally crafted websites tailored to business needs. With a focus on performance, usability, and modern design, I help brands establish a strong and impactful digital presence..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdeveloperihs&label=Profile%20views&color=0e75b6&style=flat" alt="webdeveloperihs" /> </p>
 
